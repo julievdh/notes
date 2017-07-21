@@ -3,4 +3,7 @@
 
 21 july 2017
 - try above with hoku and kolohe 5' rest files 
-- auditing to separate exh from inh 
+- audited to separate exh from inh: 153b, 153c
+- realigned files after auditing
+- hoku (153b, DQ file 14): works fairly well, still some spikes in envelope, correlation not so clean. Need Resp Timing
+- Kolohe (153c, DQ file 15): works fairly well, correlation ehh. Have resp timing.
