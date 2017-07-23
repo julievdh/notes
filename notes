@@ -7,3 +7,8 @@
 - realigned files after auditing
 - hoku (153b, DQ file 14): works fairly well, still some spikes in envelope, correlation not so clean. Need Resp Timing
 - Kolohe (153c, DQ file 15): works fairly well, correlation ehh. Have resp timing.
+- Did RESPTIMING for Hua, Hoku. Saved in _resp.mat files 
+- DQ ECG data checks: which are good, which are not, which have undergone final check
+
+23 july 2017
+- working on ECG data final check for Andreas. 140z and 141y still have to finish
