@@ -12,3 +12,9 @@
 
 23 july 2017
 - working on ECG data final check for Andreas. 140z and 141y still have to finish
+
+24 july 2017
+- rest5envelopes
+- found error in plotting for rest5envelopes: wasn't plotting integral of env (duplicate plots in subplot!) 
+- integrated audited exhale, too. added to subplot. 
+- run for files 13, 14, 15
