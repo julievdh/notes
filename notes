@@ -18,3 +18,5 @@
 - found error in plotting for rest5envelopes: wasn't plotting integral of env (duplicate plots in subplot!) 
 - integrated audited exhale, too. added to subplot. 
 - run for files 13, 14, 15
+- had to reaudit Lono 5'rest for exhales only, realigned with exhale only CUE 
+- evalcorr.m to evaluate correlation. BUT need to flip correlation x and y: use sound to estimate pneum
