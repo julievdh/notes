@@ -21,3 +21,6 @@
 - had to reaudit Lono 5'rest for exhales only, realigned with exhale only CUE 
 - evalcorr.m to evaluate correlation. BUT need to flip correlation x and y: use sound to estimate pneum
 - audited all ECG except 141y. Are there two overlapping signals, one lower Freq and one higher Freq? Ughhhhh
+
+10 Aug 2017 [back from vacation]
+- added RMSE to evalcorr
