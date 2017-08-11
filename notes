@@ -24,3 +24,10 @@
 
 10 Aug 2017 [back from vacation]
 - added RMSE to evalcorr
+- switched axes for regression: use sound to estimate measured params (rest5envelopes_exh)
+- fixed RESPTIMING for 153a - overestimated exhalation duration. * still have to do for 153b, 153c * 
+
+11 Aug 2017
+- Fixed RESPTIMING for 153b, 153c; re-ran rest5envelopes_exh
+- Looked at Trial44 ChestBand, waiting until meeting with Peter and Kristian Monday. 
+- Audited gm15_266a for breath counts (and revived surfDetect.m!)
