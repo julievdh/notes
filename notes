@@ -31,3 +31,12 @@
 - Fixed RESPTIMING for 153b, 153c; re-ran rest5envelopes_exh
 - Looked at Trial44 ChestBand, waiting until meeting with Peter and Kristian Monday. 
 - Audited gm15_266a for breath counts (and revived surfDetect.m!)
+
+14 Aug 2017
+- Finished gm15_266a audit
+- Met with Kristian and Peter re: Chest Band and other data. 
+
+15 Aug 2017
+- Other ECG files for Andreas: 136z, 144z, 146z [even though poor quality recordings]
+- ChestBand Trial22: reselected band peaks, new calculation of prominence
+- Calibrated other ChestBand pneumo files, exported, ran through DOLPHIN_FLOW_MR_jvdH. Emailed Austin re: Trial 36. Still have to export-run 60 and 61, but calibrated. 
