@@ -40,3 +40,10 @@
 - Other ECG files for Andreas: 136z, 144z, 146z [even though poor quality recordings]
 - ChestBand Trial22: reselected band peaks, new calculation of prominence
 - Calibrated other ChestBand pneumo files, exported, ran through DOLPHIN_FLOW_MR_jvdH. Emailed Austin re: Trial 36. Still have to export-run 60 and 61, but calibrated. 
+
+23 Aug 2017
+- ECG waterfall separation to correlate HR magnitude and VT for Andreas - file 138z
+- set up directories for Animove 
+
+24 Aug 2017
+- SNAK course seminars; got Azores sperm whale data from Pernille, set up directories on PC
