@@ -59,4 +59,8 @@
 - Met with Pernille re: sperm whale data
 - Click detection for sw193a complete
 
-
+14 Sept 2017
+- Fix duplicate audits cues in breath counts
+- Joyplot for breathcounts, including transparency etc. 
+- Assign species, colours for breathcounts (assignSpp.m, assignCol.m), new colormap scaled with size
+- Set 1s threshold between breaths, removed duplicate breaths.
