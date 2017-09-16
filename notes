@@ -64,3 +64,9 @@
 - Joyplot for breathcounts, including transparency etc. 
 - Assign species, colours for breathcounts (assignSpp.m, assignCol.m), new colormap scaled with size
 - Set 1s threshold between breaths, removed duplicate breaths.
+
+15 Sept 2017
+- Fixed first line CSV problem
+- Used real data in PGLS
+- Auditing gm11_248c
+- Good example of breathing surfacing gm11_248c - screenshot and wav
