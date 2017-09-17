@@ -70,3 +70,9 @@
 - Used real data in PGLS
 - Auditing gm11_248c
 - Good example of breathing surfacing gm11_248c - screenshot and wav
+
+16 Sept 2017
+- Worked on resp detector to see detection rate/false alarm rate for short surfacings. False error rate still high. 
+- Finished audit gm11_248c
+- ggjoy with log(IBI) all individuals, just BEAUTIFUL. 
+
