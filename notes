@@ -79,5 +79,22 @@
 17 Sept 2017
 - Plotting ggjoy log axes, NEW WEIGHT ESTIMATES
 
+---- Biologging ----
+---- Inertial Sensing Course ----
+
+9 Oct 2017 
+- Chest Band application to three files. File 61 best. Change to exhale only?
+
+10 Oct 2017
+- Tried exhale only, also looked at rest5min again.
+
+12 Oct 2017
+- Compared correlation of raw signal vs cleaned signal vs envelope vs 95% energy duration of envelope for 5' rest files. 
+- added flow signal to resting pneumotach flow 
+- Checked some audits really carefully - does *blip* before exhale considerably affect result?
+***** The cleaning may be the issue - does it remove too much of the signal? *****
+- Looked at inter-dive IBI for breath counts based on seminar paper for lab meeting
+- EXTRACTED 132x DATA FROM TAG! Have to audit in Audition 
+
 13 october
 showed this in matlab helpdesk!
