@@ -98,3 +98,9 @@
 
 13 october
 showed this in matlab helpdesk!
+
+6 Nov 
+- Renamed all Doug's RW data folders and .dtg to egxxxaxx convention for automation
+- Can't audit many of Doug's D2 tags with normal tools as do not have CAL files. BUT have PRH and can therefore just find times to audit in audition
+- Backed up all dl and eg tags to AU server 
+- Made corrected depth record (tentative prh file) for sw17 deployments. Corrected depth by p*2660-60 as per Mark's recommendation
