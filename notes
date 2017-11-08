@@ -117,3 +117,7 @@ showed this in matlab helpdesk!
 These files were offloaded from 401 by Alex Shorter after tag failure, so likely just a renaming issue by accident. Audited all three files from day 139 on tag 401. 
 Deduced which file is which, kept names (so as not to confuse things or versions between harddrives). Corrected cal files for all.
 - Began to work through Trial17 for MATLAB analysis, have to correct detections for exhalation
+- Corrected exhalation times, saved as Trial17_EIcorrected.mat
+- Began AlignData_DQ2017 for new file
+
+
