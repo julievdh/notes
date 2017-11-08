@@ -112,3 +112,8 @@ showed this in matlab helpdesk!
 - still have to find missed breaths in these deployments. Jerk method underway to detect, but holding off until plans confirmed for mysticete inclusion
 - Some auditing of sw17_193a but really tricky...
 
+8 Nov 2017
+- intention to look at a few good exercise trials. Chose tt17_139c, then found mismatch between names and logged information. 
+These files were offloaded from 401 by Alex Shorter after tag failure, so likely just a renaming issue by accident. Audited all three files from day 139 on tag 401. 
+Deduced which file is which, kept names (so as not to confuse things or versions between harddrives). Corrected cal files for all.
+- Began to work through Trial17 for MATLAB analysis, have to correct detections for exhalation
