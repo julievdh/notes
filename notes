@@ -120,4 +120,15 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - Corrected exhalation times, saved as Trial17_EIcorrected.mat
 - Began AlignData_DQ2017 for new file
 
+9 Nov 2017
+- aligned tt139b, completed exh-inh audit (on top of normal breath audit)
+- REALLY. PRETTY. until intevral >0.1 when things get noisy. EXCELLENT JOB. 
+- Matlab analysis for Trial16, corrected detections for exhalation, saved as Trial16_EIcorrected.mat
+- Matlab analysis for Trial02, corrected detections for exhalation, saved as Trial02_EIcorrected.mat (on MAC)
+
+10-12 Nov 2017
+- Audited and aligned 136a, 138c. All Matlab Analysis for good 401 trials where Pneumo corrected. Coloured by distance from tag. 
+- Plotted all 5' rest and ET aligned to date, coloured by distance from blowhole, comparing channels 1 and 2
+- plotCorrStore.m after waterfallBreath_ET.m 
+
 
