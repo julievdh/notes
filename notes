@@ -131,4 +131,11 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - Plotted all 5' rest and ET aligned to date, coloured by distance from blowhole, comparing channels 1 and 2
 - plotCorrStore.m after waterfallBreath_ET.m 
 
+15 Nov 2017
+- corrected Trial02 and Trial27 for calibration factors for Lono (now within normal range of flows and volumes)
+- looked at integrated sound/cumulative sum (kind of like a sound flow volume loop) to see if helps refine noisy breaths? 
+- **There is some issue with the index of each cue for audit (to clean)**
+- PRH for 144b, 143c
+- Lono Trial 43 have to do in two parts: compile after Matlab analysis of pneumotach data
+
 
