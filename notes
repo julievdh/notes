@@ -138,4 +138,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - PRH for 144b, 143c
 - Lono Trial 43 have to do in two parts: compile after Matlab analysis of pneumotach data
 
-
+16 Nov 2017
+- fixed CUE_R(I(i)) business - still a confusing index system, but unsure what to do with it otherwise. 
+- added prediction step for pneum on and pneum off
+- VO2estEffect.m: what is the effect of including sound in our estimates of metabolic rate? compare with coarse estimates versus estimates from tidal volume measured
+- NEXT STEP: consider this through TIME to get metabolic RATE instead of oxygen PER BREATH. 
