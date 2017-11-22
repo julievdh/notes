@@ -143,3 +143,15 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - added prediction step for pneum on and pneum off
 - VO2estEffect.m: what is the effect of including sound in our estimates of metabolic rate? compare with coarse estimates versus estimates from tidal volume measured
 - NEXT STEP: consider this through TIME to get metabolic RATE instead of oxygen PER BREATH. 
+
+17 Nov 2017
+- applied VO2estEffect to files 16:27. Have to refine audit of file 27 still
+- assessed 'improvement' over constant estimates
+
+20-21 Nov 2017: WHOI Application
+
+22 Nov 2017
+- started TAG repository: all tag stuff, including license information from Mark Johnson. 
+- Intention is to use this to share files with lab group and set up environment to exchange useful pieces of code, common analyses, etc.
+
+
