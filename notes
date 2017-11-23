@@ -154,4 +154,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - started TAG repository: all tag stuff, including license information from Mark Johnson. 
 - Intention is to use this to share files with lab group and set up environment to exchange useful pieces of code, common analyses, etc.
 
+23 Nov 2017
+- CUE for File 27 was mixed up, fixed, great improvement to fit (obviously!). A good test to know that correlation does not work when breath alignment is effectively randomized.
+- Check CUE alignment for File 24: also has poor correlation - wasn't the issue but some breaths weren't cropped just right
+- VO2estEffect for file 24, 27 work well. Now we can quantify by how much sound improves our estimate of VT, especially how it varies through time.
 
