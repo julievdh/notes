@@ -159,3 +159,7 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - Check CUE alignment for File 24: also has poor correlation - wasn't the issue but some breaths weren't cropped just right
 - VO2estEffect for file 24, 27 work well. Now we can quantify by how much sound improves our estimate of VT, especially how it varies through time.
 
+27 Nov 2017
+- VO2esteffect visualization improvements and then PresentationTimeline.m to go through the steps of presenting method at SMRU
+- Looked back at which deployments in Sarasota we have info on: started waterfallBreathSarasota.m but need acoustics
+
