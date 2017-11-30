@@ -176,3 +176,9 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - improved figs (VO2estEffect, Presentationtimeline)
 - calculated difference in total VT between methods (VO2estEffect)
 
+30 Nov 2017
+- looked back at chest band files. Trial 61: re-audited for exhalation only
+- Trial 22: re-audited for exhalation only
+- Improved figures 
+- Found bug in the matching of indices between band and no pneum. Still just trying to get this to work nicely and to make sense of indices upon indices.
+
