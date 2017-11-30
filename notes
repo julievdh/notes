@@ -163,3 +163,16 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - VO2esteffect visualization improvements and then PresentationTimeline.m to go through the steps of presenting method at SMRU
 - Looked back at which deployments in Sarasota we have info on: started waterfallBreathSarasota.m but need acoustics
 
+28 Nov 2017
+- Looked at applying waterfallBreath to Sarasota 2014 files where we have flow and sound completed. Not a great relationship for two files 
+- Alternative is to use cleanbreath_fun but that seems to overfilter... 
+- Met with Laia for updated porpoise audits, short finned pilot whale data and audits
+- Met with Pernille for sperm whale click detection for her Part A 
+- Included all new harbour porpoise data in countdataload. Added a criteria for  > 7h
+- Added humpbacks as entries > 100
+
+29 Nov 2017
+- incorporated prediction interval into time plots of measured and sound-estimated tidal volume in a trial
+- improved figs (VO2estEffect, Presentationtimeline)
+- calculated difference in total VT between methods (VO2estEffect)
+
