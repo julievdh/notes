@@ -189,3 +189,12 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - killer whale data are all very short...
 - finished auditing a sperm whale from azores
 
+13 Dec 2017
+- yesterday used respdetector on tt14_127a and checking through detected (and missed) breaths slowly. Stopped at 18215 s (18 h deployment!)
+- BreathSounds figure for lab meeting 14 Dec 2017. VO2estEffect and PresentationTimeline adjusted plotting, calculating RMSE for constant TLC VT estimation
+
+14-17 Dec 2017
+- Finished tt14_127a with resp detector and full check of data. 
+- Checked that bat repository works -- share with Laura
+- 
+
