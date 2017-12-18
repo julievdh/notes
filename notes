@@ -185,7 +185,7 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 11 Dec 2017
 - spent last week in St Andrews doing FHL and Sarasota ECG stuff
 - commented and updated the last ECG code to share with Julie Oswald
-- checked hyperoodon data from patrick miller 
+- checked hyperoodon data from pat3100rick miller 
 - killer whale data are all very short...
 - finished auditing a sperm whale from azores
 
@@ -195,6 +195,12 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 
 14-17 Dec 2017
 - Finished tt14_127a with resp detector and full check of data. 
-- Checked that bat repository works -- share with Laura
-- 
+- Checked that bat repository works -- share with Laura [ok actually it doesn't. I can't clone it...]
 
+18 Dec 2017
+- Chose gm datasets to round out n = 10 for breathcounts.
+- started gm11_250b with automatic detector and then follow-up, stopped at 3100. 
+- included all data from Paolo Segre for blue whales, minke whales, fin whales 
+- added belugas into countdataload structure
+- worked with laura on bat tag: can't see much, maybe something at 4Hz but difficult to decipher so will plan on proper camera protocol in future
+- changed some harddrives around so as to only bring *one* back to Vancouver over the holidays 
