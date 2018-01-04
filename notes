@@ -204,3 +204,11 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - added belugas into countdataload structure
 - worked with laura on bat tag: can't see much, maybe something at 4Hz but difficult to decipher so will plan on proper camera protocol in future
 - changed some harddrives around so as to only bring *one* back to Vancouver over the holidays 
+
+2-4 Jan 2018
+- finished tt15_134a audit for breath counts and breath sounds example
+- finishged gm audit for breath counts
+- started to look at tt15_134a free breaths: how many, what is pneumm on relationship, how many usable otherwise. 
+- looked at a few beluga tags, have to unpack dl16_138a 
+- Snow Crab whale code: refresher, reformulation of some of the code for GoSL mapping. Trying to set up github by whyyyyy so difficult lately?
+
