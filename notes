@@ -216,3 +216,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - Writing BreathSounds MS...
 - Changed VT estimtae method to use Kooyman as Wahrenbrock method specific to gray whales (less appropriate)
 - Looked at Chest Band again (may be the death of me). Still bug in indexing... 
+
+10 Jan 2018
+- Chest Band: started anew, without order sorting. This is good, but the message is still unclear. ChestBand_Jan2018.m
+
+
