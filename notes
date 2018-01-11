@@ -220,4 +220,11 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 10 Jan 2018
 - Chest Band: started anew, without order sorting. This is good, but the message is still unclear. ChestBand_Jan2018.m
 
+11 Jan 2018
+- incorporated error into ChestBand figures, showing mostly overlapping CIs. ChestBand_Jan2018.m
+- Looked at syringe calibration work: AlignData_SyringeCal.m to pull in syringe data and volume-flow for when pneum on and off. Need to audit second tag in this dataset still. 
+- Compared SL in different bands for syringe *breaths* as suggested by Peter: maybe more robust, less sensitive than AUC to e.g. splashes etc. 
+- Audited tt147z which has 10-22cm distances with pneumotach on and off. 
+
+
 
