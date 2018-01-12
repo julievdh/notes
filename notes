@@ -226,5 +226,10 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - Compared SL in different bands for syringe *breaths* as suggested by Peter: maybe more robust, less sensitive than AUC to e.g. splashes etc. 
 - Audited tt147z which has 10-22cm distances with pneumotach on and off. 
 
+12 Jan 2018
+- Tried SL with Trial16 -- ET_SL.m. Not as clear, unfortunately
+- Added error and TLC to PresentationTimeline 
+- Started looking at corrstore again to see how much Sint1, Sint2 differ between trials
+- Audited 152b for soundcal 
 
 
