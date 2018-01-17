@@ -236,4 +236,9 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - AlignData_SyringeCal147z: pulls in all scal for tt147z, plots all spectrograms ranked with flow, assesses pneumo on-off with linear models
 - Question remains: calculating or averaging SL correctly? 
 
+17 Jan 2018:
+- We are calculating SL ok. We can average it. 
+- script to find chunks of breath with high kurtosis to remove these from calculating spectrum
+- stuck on ranking spectrum waterfall because unsure of y values for kristian's code
+- fixed some issues in SnowCrab simulation and have whales swimming quickly now :) 
 
