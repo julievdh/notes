@@ -242,3 +242,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - stuck on ranking spectrum waterfall because unsure of y values for kristian's code
 - fixed some issues in SnowCrab simulation and have whales swimming quickly now :) 
 
+18 Jan 2018
+- clean spectra for regular files and for syringe (to remove 'click')
+- met with Kristian to look at spectra, bandwidths, etc
+- removing click improves SLhigh-SLlow-flow correlations marginally
+
