@@ -247,3 +247,10 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - met with Kristian to look at spectra, bandwidths, etc
 - removing click improves SLhigh-SLlow-flow correlations marginally
 
+19 Jan 2018
+- met with Kristian and Peter. 
+- Found optimal bands for high-low comparison (optimalBands.m) for regular files and also for syringe. R2 much better for syringe...
+- Did 3d PSD plot for syringe 
+- HPF signal inside kurtosis before finding the bad chunks improves detection, but still cuts out a lot. Next step: find peak in kurtosis chunk and cut out smaller amount, or add amplitude criterion
+- working on CleanSpectra to do this.
+
