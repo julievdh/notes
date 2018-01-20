@@ -254,3 +254,7 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - HPF signal inside kurtosis before finding the bad chunks improves detection, but still cuts out a lot. Next step: find peak in kurtosis chunk and cut out smaller amount, or add amplitude criterion
 - working on CleanSpectra to do this.
 
+20 Jan 2018
+- Added Beluga metadata to countadaload.m 
+- Saved Fleur's 3 Zc tags to .txt audit folder
+
