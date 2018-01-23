@@ -262,3 +262,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - FFt filter to try to remove syringe sound (fftsyringe.m)
 - Improved kurtosis removal of max and some time around it
 - Sintegral interpolated to try to improve breaths with impulse sounds 
+
+23 Jan 2018
+- plot to show envelope of each integrated sound plot
+- 3d plot for filtered sound vs measured VT and flow rate 
+- optimalbands + LM based on integrated sound and difference between high/low
