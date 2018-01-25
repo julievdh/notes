@@ -275,3 +275,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - Fixed file 17 timing problem
 - Need to check file 26 VT (really high)
 
+25 Jan 2018
+- fixed breath tidal volumes for file 26 (but not a great file...)
+- applied predictions to when files have clean spectra 
+- compared dolphin versus syringe data in terms of are max and min flow rates representative of actual data? SyringeDolphinCompare.m
+- Updated VO2estEffect for cleanspectra output 
