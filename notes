@@ -267,3 +267,11 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - plot to show envelope of each integrated sound plot
 - 3d plot for filtered sound vs measured VT and flow rate 
 - optimalbands + LM based on integrated sound and difference between high/low
+
+24 Jan 2018
+- Fixed file 22 timing problem (resaved, corrected EI, realigned, etc)
+- With cleanspectra, go through exercise trials and use LM and plot results and fit (CleanSpectra.m)
+- plot3tomesh to take three vectors and make a surface (WOO HOO!)
+- Fixed file 17 timing problem
+- Need to check file 26 VT (really high)
+
