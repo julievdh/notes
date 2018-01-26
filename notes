@@ -280,3 +280,12 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - applied predictions to when files have clean spectra 
 - compared dolphin versus syringe data in terms of are max and min flow rates representative of actual data? SyringeDolphinCompare.m
 - Updated VO2estEffect for cleanspectra output 
+
+26 Jan 2018
+- Read some human papers. Went back to the cross-correlation idea in order to actually calibrate flow+sound relationship and use that for other breaths where we donøt have the full signal.
+- Met with K and P, some direction in terms of important and relevant questions: 
+        - what is variation in Sint for Sarasota vs. DQ? 
+        - If VT is so constant at rest, then we would expect sound to be constant too (is it)? 
+        - include breath duration in LM? 
+- went back to FlowSoundPlot.m and also fit gaussian inside that to look at flow+sound relationship.
+
