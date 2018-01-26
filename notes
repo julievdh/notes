@@ -283,6 +283,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 
 26 Jan 2018
 - Read some human papers. Went back to the cross-correlation idea in order to actually calibrate flow+sound relationship and use that for other breaths where we donøt have the full signal.
+- Applied power model because of the physics involved. 
+- Looked at waterfallBreathSarasota.m to see how many Sarasota files work, what correlation is. 
 - Met with K and P, some direction in terms of important and relevant questions: 
         - what is variation in Sint for Sarasota vs. DQ? 
         - If VT is so constant at rest, then we would expect sound to be constant too (is it)? 
