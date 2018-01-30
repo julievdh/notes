@@ -296,3 +296,11 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - can get good flow-sound correlation for exhales but not so much for inhales. 
 - looked at BreathQualityLoop for sarasota file, set up loop for breath quality. 
 
+30 Jan 2018
+- Fixed cleanSpectra kurtosis issue (was including max values from the bad sections)
+- reaudited a few ETs to check on extra short or long breaths
+- included duration in linear models, also did a custom power curve fit and compared RMSE and R2 for those 
+- 200 in to breathqualityloop for sarasota file tt14_128a. 
+- incorporated cleanspectra into Pxx, Fcent calculations (BreathParams)
+
+
