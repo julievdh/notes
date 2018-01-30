@@ -291,3 +291,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
         - include breath duration in LM? 
 - went back to FlowSoundPlot.m and also fit gaussian inside that to look at flow+sound relationship.
 
+29 Jan 2018
+- tried cross-correlation on file 4 from DQ2013. Other DQ files need to be (re?)aligned for some reason
+- can get good flow-sound correlation for exhales but not so much for inhales. 
+- looked at BreathQualityLoop for sarasota file, set up loop for breath quality. 
+
