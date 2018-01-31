@@ -303,4 +303,10 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 - 200 in to breathqualityloop for sarasota file tt14_128a. 
 - incorporated cleanspectra into Pxx, Fcent calculations (BreathParams)
 
+31 Jan 2018
++ Audited tt14_128a further, moved indices to be able to also quality check the pneumotach and pre-release breaths 
++ (ShiftParams.m)
++ FlowSoundPlot_Sarasota to look at those breaths and whether or not we can do a one-breath calibration. there is some LF thing going on.
++ FlowSoundPlot for DQ file from 2013 updated, estimating flow rate reasonably, then integrating that we can get VT +- 17% on average for exhales
++ inhales in that Sarasota file look good! 
 
