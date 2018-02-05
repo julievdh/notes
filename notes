@@ -310,3 +310,12 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 + FlowSoundPlot for DQ file from 2013 updated, estimating flow rate reasonably, then integrating that we can get VT +- 17% on average for exhales
 + inhales in that Sarasota file look good! 
 
+1-2 Feb 2018
++ templatefilter to try to filter out LF sound in sarasota file (tt14_128a_filterseg)
+
+5 Feb 2018
++ What files have the bad sound? Tag 107.
++ Worked on Sarasota file 12 instead - doesnt have bad sound
++ See summary of files at BreathSounds Data google sheet
++ DQ file free-swim envelope estimation: non pneum, resting breaths. swimming breaths. used inhale cues from BreathQualityLoop 
+
