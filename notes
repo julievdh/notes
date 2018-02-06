@@ -319,3 +319,11 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 + See summary of files at BreathSounds Data google sheet
 + DQ file free-swim envelope estimation: non pneum, resting breaths. swimming breaths. used inhale cues from BreathQualityLoop 
 
+6 Feb 2018
++ met with Peter and Kristian - good progress, time to wrap this up.
++ Github and slack tutorial with Frants and Heidi
++ Frants said hadn't looked into electrical noise filtering but aware of it. 
++ applied relationship to resting and free-swimming breaths for DQ2013 file 4. 
++ looking through and realigning DQ2013 files to be sure things are ok. Found mismatch for file 3. GO BACK TO RAW DATA ON THIS ONE.
+
+
