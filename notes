@@ -326,4 +326,9 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 + applied relationship to resting and free-swimming breaths for DQ2013 file 4. 
 + looking through and realigning DQ2013 files to be sure things are ok. Found mismatch for file 3. GO BACK TO RAW DATA ON THIS ONE.
 
+7 Feb 2018
++ checked all DQ2013 files, realigned, checked CUES, etc
++ many changes in FlowSoundPlot in terms of order in which things are calculated, preallocation to maintain consistent length of vectors
++ went through all DQ2013 files to see which ones BreathQualityLoop good, ran FlowSoundPlot on those ones. Made a great to-do list.
+
 
