@@ -331,4 +331,8 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 + many changes in FlowSoundPlot in terms of order in which things are calculated, preallocation to maintain consistent length of vectors
 + went through all DQ2013 files to see which ones BreathQualityLoop good, ran FlowSoundPlot on those ones. Made a great to-do list.
 
+9 Feb 2018
++ determined how to reduce degrees of freedom in testing fit of flow-sound relationship to reduce pseudoreplication
++ applied to DQ2017 5' resps but not fully done 
++ reordered so that do flow-sound on cleaned (kurtosis) signal
 
