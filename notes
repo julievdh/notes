@@ -333,6 +333,6 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 
 9 Feb 2018
 + determined how to reduce degrees of freedom in testing fit of flow-sound relationship to reduce pseudoreplication
-+ applied to DQ2017 5' resps but not fully done 
++ applied to DQ2017 5' resps 
 + reordered so that do flow-sound on cleaned (kurtosis) signal
-
++ started (re)applying to DQ2013 files 
