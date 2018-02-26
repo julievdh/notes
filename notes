@@ -346,3 +346,10 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 20 Feb 2018
 + Looked at double tag deployments, put through Matlab routine (again, to get RAWDATA)
 + saved resp files as c1, c2 for each because of different cues, tcues for different tags
+
+26 Feb 2018
+- JEB review for DQ
+- JEB review for FHL
+- FLowSoundPlot almost finished - resume at f = 24, n = 21 
+
+
