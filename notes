@@ -373,4 +373,9 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 + changed flowsoundplot to do both hydrophones
 + working on last of DQ2013 files 
 
+26 March 2018
++ SyringeCal: compared tags to each other, hydrophones to each other for Sint method. Need to implement with Flow-sound relationship
++ SyringeCal147z: improved subplots and figures, import SyringeCal doubletag data to compare with this.
++ FlowSoundPlot_Syringe: to do the same thing for Syringe data, testing first with 147z 
+        ----- stopped at line 135 ------- after alignment, before selection 
 
