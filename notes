@@ -379,3 +379,9 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 + FlowSoundPlot_Syringe: to do the same thing for Syringe data, testing first with 147z 
         ----- stopped at line 135 ------- after alignment, before selection 
 
+27 March 2018
++ SyringeCal 147z: adapted for inhales and exhales separately
++ changed FlowSoundAssess_Syringe for syringe dataset specifically
++ included volume in *cuts* for Syringe dataset to get volume estimate VTe and VTi
+        ------ stopped at line 135 in FlowSoundAssess_Syringe 
+
