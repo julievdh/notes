@@ -1,3 +1,17 @@
+3 April 2018
++ FlowSoundPlot for both double tag deployments (f = 9,10,11,28)
++ DualSyringeCal is with Sint method, now flow-sound method. Need to do FlowSound for those Syringe deployments
++ Changed AlignData_SyringeCal, PlotSyringe_Apply, FlowSoundApply_Syringe, FlowSoundAssess_Syringe, FlowSoundPlot_Syringe152 etc etc to do dual tag Syringe assessment
++ PlotSyringeCompare to compare VTestimates from hydrophones and tags 
++ Started to do same plotting comparison for dualtag from actual breaths
+        -------- need to resave _flowsound with the VT estimates so don't always have to rerun 
+        
+
+2 April 2018
++ By accident overwrote 126b _flowsound file, so overwrote surfstore. That's ok, since the FlowSoundAPply changed anyway, but still. Change dto '-append' 
++ Finished BreathQualityLoop for 126b 
++ Finished dl16_135a beluga audit
+
 29 March 2018
 + syringe data: plotted error in flow rate and VT versus flow rate for syringe AND for a file (woo!) 
 + syringe error >> dolphin error (phew)
