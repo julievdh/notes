@@ -1,3 +1,8 @@
+4 April 2018
++ Determined number of breaths to use in FlowSoundAssess - n = 5. Made associated Supplemental Figures for this (_FitEval1, FitEval2, VTmeas-est.fig)
++ Converted code back to calculating for first 5 breaths only
+----------------- need to extend FlowSoundAssess to second hydrophone and save everything to _flowsound 
+
 3 April 2018
 + FlowSoundPlot for both double tag deployments (f = 9,10,11,28)
 + DualSyringeCal is with Sint method, now flow-sound method. Need to do FlowSound for those Syringe deployments
