@@ -1,3 +1,8 @@
+5 April 2018
++ changed FlowSoundAssess to have both hydrophones 
++ resaved values for VTest etc for dualTags (+ dealt with some infinite values, etc)
++ did the dualTag analysis (dualTagCompare.m) and wrote out results, made table in MS. 
+
 4 April 2018
 + Determined number of breaths to use in FlowSoundAssess - n = 5. Made associated Supplemental Figures for this (_FitEval1, FitEval2, VTmeas-est.fig)
 + Converted code back to calculating for first 5 breaths only
