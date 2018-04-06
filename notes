@@ -1,3 +1,8 @@
+6 April 2018
++ vartest for whether variance from two hydrophones is the same
++ made scatterhist3 to show distributions as well as points, function to share and use later
++ wrote up dualTag portion of MS
+
 5 April 2018
 + changed FlowSoundAssess to have both hydrophones 
 + resaved values for VTest etc for dualTags (+ dealt with some infinite values, etc)
