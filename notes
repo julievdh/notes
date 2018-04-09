@@ -1,3 +1,8 @@
+9 April 2018
++ Went through all 2013 and 2017 files for FlowSoundPlot and FlowSoundAssess to make BStableFitcompare and put values in paper. 
+------ next: do Sint for all (or just the ones I've already done it for), compare Sint to FlowSound, and do FlowSoundApply 
+
+
 6 April 2018
 + vartest for whether variance from two hydrophones is the same
 + made scatterhist3 to show distributions as well as points, function to share and use later
