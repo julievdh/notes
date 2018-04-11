@@ -1,3 +1,13 @@
+11 April 2018
++ Fixed BStableFitCompare.m, added Sarasota file into the structure and then put in paper (likely as supplemental)
++ Looked at LM for other syringe and a regular file, don't seem comparable.
++ Did FlowSoundApply on Sarasota File - let's see how that goes overnight!
+
+10 April 2018
++ phew, you were calculating syringe error slightly wrong! (subtracting negatives etc) 
++ fixed for: 152b, 152z, 147z
++ used a linear model to look at error vs flow rate for syringe inhales and exhales --- do this for a regular file to and see if they are comparable
+
 9 April 2018
 + Went through all 2013 and 2017 files for FlowSoundPlot and FlowSoundAssess to make BStableFitcompare and put values in paper. 
 ------ next: do Sint for all (or just the ones I've already done it for), compare Sint to FlowSound, and do FlowSoundApply 
