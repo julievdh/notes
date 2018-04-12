@@ -1,3 +1,10 @@
+12 April 2018
++ Specialedag - mostly presentations all day
++ looked at FlowSoundApply results: changed to do Exhale and Inhale, and changed order to be consistent with method: take hilbert, then subsample that for inhl and exhl 
+        (previously had retaken sound, taken envelope again, etc). 
++ set up to run overnight for full Sarasota deployment (should've set a tic-toc!)
+
+
 11 April 2018
 + Fixed BStableFitCompare.m, added Sarasota file into the structure and then put in paper (likely as supplemental)
 + Looked at LM for other syringe and a regular file, don't seem comparable.
