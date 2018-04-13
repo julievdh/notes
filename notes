@@ -1,3 +1,9 @@
+13 April 2018
++ inhaled VT estimates look really good for long Sarasota deployment
++ exhaled VT was really high - mostly because of splashing. 
++ added a 'count' field in the kurtosis filter to know how many sections were removed -- can use this as a criteria for when/when not to use a breath
++ left to re-run with the criteria counting! In the future, use better ranking of usable exhales/inhales? should we change kurtosis cutoff for exhales?  
+
 12 April 2018
 + Specialedag - mostly presentations all day
 + looked at FlowSoundApply results: changed to do Exhale and Inhale, and changed order to be consistent with method: take hilbert, then subsample that for inhl and exhl 
