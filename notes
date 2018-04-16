@@ -1,3 +1,8 @@
+16 April 2018
++ test whether measured and estimated distributions are the same
++ added test results and VTe and VTi comparison to table comparison in paper, writing
++ MICROSOFT UGH UGH UGH WHAT IS THIS UPDATE DOING
+
 13 April 2018
 + inhaled VT estimates look really good for long Sarasota deployment
 + exhaled VT was really high - mostly because of splashing. 
@@ -436,21 +441,4 @@ Deduced which file is which, kept names (so as not to confuse things or versions
 
 5 March 2018
 + Figure updates for Eg track
-+ Figure updates for VO2estEffect for DQ trial 12 (2013) for presentation, recoded VO2EstEffect for FlowSound output
-
-21 March 2018
-+ changed flowsoundplot to do both hydrophones
-+ working on last of DQ2013 files 
-
-26 March 2018
-+ SyringeCal: compared tags to each other, hydrophones to each other for Sint method. Need to implement with Flow-sound relationship
-+ SyringeCal147z: improved subplots and figures, import SyringeCal doubletag data to compare with this.
-+ FlowSoundPlot_Syringe: to do the same thing for Syringe data, testing first with 147z 
-        ----- stopped at line 135 ------- after alignment, before selection 
-
-27 March 2018
-+ SyringeCal 147z: adapted for inhales and exhales separately
-+ changed FlowSoundAssess_Syringe for syringe dataset specifically
-+ included volume in *cuts* for Syringe dataset to get volume estimate VTe and VTi
-        ------ stopped at line 135 in FlowSoundAssess_Syringe 
-
++ Figure updates for VO2estEffect for DQ trial 12 (2013) for presentation, recoded VO2EstEffect for 
