@@ -1,3 +1,8 @@
+17 April 2018
++ did Hydrophone comparison for clip level on different tags/different hydrophones (tag119hydrophones.m) 
++ did sound vs. quality estimate (BreathSpeed_tt13_288a.m)
++ writing, schematic, etc etc.
+
 16 April 2018
 + test whether measured and estimated distributions are the same
 + added test results and VTe and VTi comparison to table comparison in paper, writing
