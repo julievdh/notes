@@ -1,3 +1,12 @@
+18 April 2018
++ something happened with BreathSounds repository -- noooo! 
++ Cross validation: applying one hydrophone to other, applying across tag deployments. See BSCrossValidation.m, Crossvalsubroutine.m 
+        ------ need to fix empty cells and be able to do paired stats. 
++ tag119hydrophones.m: changed tags that I calculated SL differences on so as to match the tags that we do the cross-validations on. 
++ need to select a few more tags for cross-validation? 
++ lab meeting
+
+
 17 April 2018
 + did Hydrophone comparison for clip level on different tags/different hydrophones (tag119hydrophones.m) 
 + did sound vs. quality estimate (BreathSpeed_tt13_288a.m)
