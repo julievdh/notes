@@ -1,3 +1,11 @@
+20 April 2018
++ cross-validation continuing, writing up results mostly. 
++ tag119hydrophones: now 6 deployments, snippets where sound experienced likely on both hydrophones (e.g. flow noise) instead of transients (might be hitting only one hydrophone)
++ streamlining of paper, trying to put this all together
++ DQ 2018 call 
++ Power Curve: makes sense for accelerometry data, for depth data (diving capacity), etc. PowerCurveTest, PowerCurveDemo
+
+
 18 April 2018
 + something happened with BreathSounds repository -- noooo! 
 + Cross validation: applying one hydrophone to other, applying across tag deployments. See BSCrossValidation.m, Crossvalsubroutine.m 
