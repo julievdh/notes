@@ -1,3 +1,10 @@
+23 April 2018
++ went back to syringe to write it up
++ wrote some of it up
++ wrangled plotSlice into something where there are usable outputs to manage in figures
++ made the LM plots of syringe exhales and inhales and wrote out results of those linear models and main effects 
++ effect of distance is within the range of what we would expect from spreading losses (3-6 dB). 
+
 20 April 2018
 + cross-validation continuing, writing up results mostly. 
 + tag119hydrophones: now 6 deployments, snippets where sound experienced likely on both hydrophones (e.g. flow noise) instead of transients (might be hitting only one hydrophone)
