@@ -1,3 +1,13 @@
+25 April 2018
++ cross-validation write up and results! finalized figure, just have to change some colours (as always). CrossValsubroutine.m
++ got DQ2013 photos for different tag deployments to estimate tag placement -- to do tonight
++ found which files tag slips occurred in 2013 and 2017. 267b is good example of changes in accelerometer data, can see VT estimates post swim are much lower
+(and this is a file where VT measured and estimated are significantly different, TagMoveEffect.m). 
++ need to choose second file (other animal) for second cross-validation 
++ looking at effect of distance on mean absolute errors (flow and volume; BStableFitCompare.m) but need DQ2013 distances first.
++ yesterday, looked back at the source level and power spectral density and such -- decided to leave that as an optino for future classification of low and high flow rates 
+
+
 23 April 2018
 + went back to syringe to write it up
 + wrote some of it up
