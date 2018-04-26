@@ -1,3 +1,11 @@
+26 April 2018
++ added distances from DQ 2013 photos, looked at effect of distance on absolute error (BStableFitCompare). Nothing clear.
++ NARW data from Doug -- what a cluster. D2, D1, makecuetab, etc. 
++ got into a format to look at prh, calculate flow noise etc. 
++ still not sure if 2002 acoustics will work
+NARW data: https://docs.google.com/spreadsheets/d/1afUXY28tgFsaioKfu7gZ2VTMfYTAXzdpEXnWqBAAanE/edit
+
+
 25 April 2018
 + cross-validation write up and results! finalized figure, just have to change some colours (as always). CrossValsubroutine.m
 + got DQ2013 photos for different tag deployments to estimate tag placement -- to do tonight
