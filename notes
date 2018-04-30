@@ -1,3 +1,7 @@
+30 April 2018
++ gm11_248c figure with audit (for talk)
++ working on VO2estEffect as writing -- calculate minute volume, resample to 30s
+
 26 April 2018
 + added distances from DQ 2013 photos, looked at effect of distance on absolute error (BStableFitCompare). Nothing clear.
 + NARW data from Doug -- what a cluster. D2, D1, makecuetab, etc. 
