@@ -5,6 +5,12 @@
         Datasheet says 29 cm, IMG_5531 and IMG_5532
         Images MM2_5972-MM2_5977 show measurement. 
 
+1 May 2018
++ figures for seminar
++ sarasota file calculations on minute volume, effect of assuming constant VT
++ figures for presentation 
++ syringe 147z: 75 subplots, consider making it only 70 to be equal on-off-flow-distance (currently 10x 10cm off) 
+
 30 April 2018
 + gm11_248c figure with audit (for talk)
 + working on VO2estEffect as writing -- calculate minute volume, resample to 30s
