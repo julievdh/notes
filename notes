@@ -1,3 +1,9 @@
+4 May 2018 
++ calculated effect of pneumotach on syringe volume estimates via flow´-sound method (FlowSoundApply_Syringe)
++ kept values for fitinfo in T for BStableFitcompare
++ saved that figure of fitinfo parameters, added to supplemental
++ sent first draft to peter *dancer emoji*
+
 3 May 2018
 + cross val comparison and variance comparison -- it's a consistent factor! BScrossvalidate, crossvalsubroutine, new figures
 + writing writing writing 
