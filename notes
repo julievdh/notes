@@ -1,3 +1,8 @@
+25 May 2018
++ Beluga data for Manolo: catalogued where data were at, example figure of what the resp-surface intervals and durations were (belugaSurfacingPlots.m)
++ Set up tag auditing etc tools on mac so can audit while traveling
++ RW paper, call with Elliott Hazen, JEB proofs
+
 24 May 2018
 + tried to unpack beluga data for 100th time -- realized it's a data storage problem.
 + unpacked again, fixed bug in d3makecues to make new cuefile for dl248a.
