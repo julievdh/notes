@@ -1,7 +1,16 @@
+7 June 2018
++ Data for Manolo, BelugaSurfacingPlots.m -- trying to also incorporate tag data but likely will abort :) 
++ BreathSounds comments from Mark --> some quick, some not
++ ONR report edits and planning for last figure updates etc 
+
+30 May - 6 June 2018
++ San Diego. Some beluga auditing, converted 2012 NARW excel file audits to .txt --> convertXLaudit.m
+
 29 May 2018
 + seminar at Zoofys, conversation with Mark and Peter re: breath sounds, sent MS to Mark
 + saved audits from Fleur: gg, zc. Checked audits from Paolo
 + started checking RW audits, found .xls files on drive (JVDH2017-1). Will upload those into .txt files and save existing to know what else needs to be done
+
 28 May 2018
 + VO2estEffect fix 
 + minute ventilation contours (in VO2estEffect)
