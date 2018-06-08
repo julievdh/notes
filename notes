@@ -1,3 +1,13 @@
+8 June 2018
++ improved plotParamsDQ for ONR report 
++ got parameters and values for ONR report
++ finished first draft of ONR report to send to Peter
++ got d4 unpacking tools 
++ unpacked d4 data from DQ 2018 from Austin Allen - also copied to O:/ drive
+------- same overrun errors as with sperm whale data
++ Looked into median filter instead of kurtosis, looked at Sarasota file and why such a strong cap at 10 l/s flow rate that is limiting estimates 
+------- no real conclusion here. 
+
 7 June 2018
 + Data for Manolo, BelugaSurfacingPlots.m -- trying to also incorporate tag data but likely will abort :) 
 + BreathSounds comments from Mark --> some quick, some not
