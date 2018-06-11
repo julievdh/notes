@@ -1,3 +1,10 @@
+11 June 2018
++ sorted a bunch of beluga data, now that we have total .dtgs from Aran, Manolo and Song. External harddrive and O:/ drive management. 
++ looked into fitting different flow-sound relationship based on information from SL -- SL_Sarasota and NewModel_test (great name, Julie)
++ meeting with Niels, meeting with Peter and Mark 
++ gave Mark Sarasota 2014 dtag and templatefilter.m I put together to get around tag noise. He said he has worked on a solution to this previously
++ started putting together list of DQ and Saraota resp rates for Niels' work. Made list of reasonable tags to use as long-term VT estimate possibilities for free-swimming in DQ
+
 8 June 2018
 + improved plotParamsDQ for ONR report 
 + got parameters and values for ONR report
