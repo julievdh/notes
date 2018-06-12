@@ -1,3 +1,9 @@
+12 June 2018
++ changed how we compute error to RMS instead of mean
++ redid flow-sound time alignment for sarasota file (which greatly improved things!)
++ looked further into using PSD or SL to separate and have different flow-sound relationships. 
++ applied new fit to Sarasota deployment, much greater variation in estimated flow rate which gives me more confidence. Applied to all breaths overnight. 
+
 11 June 2018
 + sorted a bunch of beluga data, now that we have total .dtgs from Aran, Manolo and Song. External harddrive and O:/ drive management. 
 + looked into fitting different flow-sound relationship based on information from SL -- SL_Sarasota and NewModel_test (great name, Julie)
