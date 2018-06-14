@@ -1,3 +1,11 @@
+14 June 2018
++ Looked at SL and PSD differences in Sarasota file with Peter. No clear distinction. No more. 
++ Removed noise floor from flow and sound when selecting, added median filter, and changed to select both inhales and exhales when doing FlowSoundPlot
++ looked at two ways of fitting: 5 random breaths or random 25% of all points (fitmethod2.m). Choosing 25% of all points results in much more stable R2 and RMSE in estimates of flow rate, and much more stable RMSE of VT inhaled estimate as well (0.7 L) 
+-------- now to change FlowSoundAssess to incorporate all of this :) 
++ see FitCompare_tt14_126b 
++ Streamlined FlowSoundAssess to use a few functions, use this new method. Hooray! 
+
 13 June 2018
 + Mark sent a way to clean up d3 hum (cleanup_d3_hum.m) which allows me to apply to other sarasota files
 + implemented in FlowSoundPlot_Sarasota
