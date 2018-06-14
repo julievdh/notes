@@ -1,3 +1,9 @@
+13 June 2018
++ Mark sent a way to clean up d3 hum (cleanup_d3_hum.m) which allows me to apply to other sarasota files
++ implemented in FlowSoundPlot_Sarasota
++ implemented in FlowSoundApply -- but need to check effect of duration
++ 4 hour lab meeting, presentation and discussion :) 
+
 12 June 2018
 + changed how we compute error to RMS instead of mean
 + redid flow-sound time alignment for sarasota file (which greatly improved things!)
