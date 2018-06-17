@@ -1,3 +1,8 @@
+17 June 2018
++ incorporating cleanup_d3_hum from Mark, works well when animals are at rest prior to release but doesn't work for all surfacings. 
++ tried to implement different RMS rules (use if RMS is lower in filtered signal versus original) but still distorting some free-swimming breaths
+-------- example: breath.cue 71 in  tt14_129c 
+
 14 June 2018
 + Looked at SL and PSD differences in Sarasota file with Peter. No clear distinction. No more. 
 + Removed noise floor from flow and sound when selecting, added median filter, and changed to select both inhales and exhales when doing FlowSoundPlot
