@@ -1,3 +1,10 @@
+18-26 June 2018
++ Sound course over last 1.5 weeks -- lots of new code for acoustic analysis, filtering, etc. noise_course drive and directory on mac
++ Implemented cleanup_d3_hum in surfacing time for free-swimming sarasota files, but have to use over entire (padded) duration for when being held. 
++ working on BreathQualityLoop for Sarasota files (~3000 more breaths to do!)
++ With some streamlining of code (FSfit, etc, has changed some structuring for allstore.sound vs .sounde that I'll have to redo -- blargh). But, for the better. 
++ NARW flow-noise: meeting with Peter to discuss why speed is so variable in deployment, etc. Limiting inference right now. 
+
 17 June 2018
 + incorporating cleanup_d3_hum from Mark, works well when animals are at rest prior to release but doesn't work for all surfacings. 
 + tried to implement different RMS rules (use if RMS is lower in filtered signal versus original) but still distorting some free-swimming breaths
