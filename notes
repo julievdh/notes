@@ -1,3 +1,13 @@
+26 July 2018
++ you went on vacation! did a few things in the meantime but mostly didn't take notes (silly girl)
++ NARW flow speed: it was a radians and degrees error! much better fit, have things working for 2 tag deployments so far. 
++ improved selection of bottom time in foraging dives (findbottomtime.m) 
++ tried to add detection of 'slow down' times but unsure if it's really detecting what we want right now. 
+--------- use ph? use jerk? what exactly are we looking for? 
+"During the bottom phase of foraging dives, we observed brief pauses in fluking with durations around 2 s 
+(i.e. the duration of about half a fluke stroke when feeding) at fairly regular intervals with a mean interval 
+of 2.4 min (s.d. = 0.65)" 
+
 18-26 June 2018
 + Sound course over last 1.5 weeks -- lots of new code for acoustic analysis, filtering, etc. noise_course drive and directory on mac
 + Implemented cleanup_d3_hum in surfacing time for free-swimming sarasota files, but have to use over entire (padded) duration for when being held. 
