@@ -1,3 +1,13 @@
+28-31 July 2018
++ difference may just be due to densities: right whale forage at densities 1 order of magnitude higher than bowheads. Comparative gape/velocity/density between other ram feeders
+
+
+27 July 2018
++ used existing findglides to find periods of low fluking activity 
+------- successful, but what we really want to find are these periods of longer-than-usual fluke strokes. That's not being captured with the findglides method. 
++ did with diff(fluke strokes) as well with better success. Still, the time between these instances are really short (30 s, instead of 2.5 min as observed in bowheads)
+
+
 26 July 2018
 + you went on vacation! did a few things in the meantime but mostly didn't take notes (silly girl)
 + NARW flow speed: it was a radians and degrees error! much better fit, have things working for 2 tag deployments so far. 
