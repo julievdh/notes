@@ -1,3 +1,9 @@
+13 Aug 2018
++ made NARW git repo on mac because who knows what's happening with my PC
++ time of mouth closure, depth, 3d movement, filtered volume in figure: NARW_divepauseplot.m
++ density model for all dives: NARW_plotalldens.m 
++ all enveloped in NARW_plotAlldives.m 
+
 9 Aug 2018
 + get back in the habit of daily notes, Julie! 
 + mostly writing NSERC-DFO proposal but also NARW coding
