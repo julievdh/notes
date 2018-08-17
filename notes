@@ -1,3 +1,11 @@
+14-16 Aug 2018
++ gear drag estimates for MWB for Eg 3843 from BOF (SnowCrabEstimates.m)
++ tag prep for deployments
++ checked all flowsound and pauses to be happy with all 10 files. updated all on dropbox. 
++ calculated speed on descent/ascent/bottom, pitch on descent/ascent, separated by foraging/nonforaging dives (getpitchspeed.m)
++ looked at changes in gape from e.g. photogrammetry data (ageGapeModel.m) and emailed Alex and Jean 
+
+
 13 Aug 2018
 + made NARW git repo on mac because who knows what's happening with my PC
 + time of mouth closure, depth, 3d movement, filtered volume in figure: NARW_divepauseplot.m
