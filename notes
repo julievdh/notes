@@ -1,3 +1,8 @@
+21 Aug 2018
++ obtained gape estimates from Carolyn's thesis and added function to estimate gape from length and width (getgape.m)
++ going through files again to estimate volumes with proper gape, but very tired, making some mistakes, so stopping. 
+
+
 14-16 Aug 2018
 + gear drag estimates for MWB for Eg 3843 from BOF (SnowCrabEstimates.m)
 + tag prep for deployments
