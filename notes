@@ -1,3 +1,10 @@
+28 Aug 2018
++ in last week: descriptive statistics for all dives, bouts, etc. (NARW_totalVolume.m)
++ relative amplitude (RMS) vs speed as indicator of switching. (in plotalldens and plotalldens_alltags)
++ but removed all density calculations 
++ new figure 1 (NARW_FlowSpeedFig.m)
++ NARW_RCD for rate of change in direction every 10-s, but problems with downsampling a circular vector (whale will never turn around). Check intertial sensing lectures. 
+
 21 Aug 2018
 + obtained gape estimates from Carolyn's thesis and added function to estimate gape from length and width (getgape.m)
 + going through files again to estimate volumes with proper gape, but very tired, making some mistakes, so stopping. 
